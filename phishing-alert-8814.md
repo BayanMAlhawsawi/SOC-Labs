@@ -1,5 +1,10 @@
 # 🚨 Phishing Analysis Report - Alert 8814
 
+## Incident Scenario
+
+A suspicious inbound email was detected by the SOC system. The email requested the recipient to complete an onboarding profile setup through an external link. The message was flagged due to potentially suspicious characteristics commonly associated with phishing attacks.
+
+
 ## 🕒 Time of Activity:
 
 05/06/2026 04:04:33
