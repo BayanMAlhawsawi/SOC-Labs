@@ -2,8 +2,20 @@
 
 ## Incident Scenario
 
-A suspicious inbound email was detected by the SOC system. The email requested the recipient to complete an onboarding profile setup through an external link. The message was flagged due to potentially suspicious characteristics commonly associated with phishing attacks.
+A suspicious inbound email was detected and flagged as a potential phishing attempt.
 
+### Alert Details
+- Data Source: Email
+- Timestamp: 05/06/2026 18:16:05
+- Subject: Action Required: Finalize Your Onboarding Profile
+- Sender: onboarding@hrconnex.thm
+- Recipient: j.garcia@thetrydaily.thm
+- Attachment: None
+- Direction: Inbound
+
+### Email Content
+The email requested the recipient to complete an onboarding profile setup through an external link:
+https://hrconnex.thm/onboarding/15400654060/j.garcia
 
 ## 🕒 Time of Activity:
 
